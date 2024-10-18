@@ -9,4 +9,4 @@ Check out my latest work and projects: [rguig-mohamed-amine.vercel.app](https://
 Feel free to connect with me:  
 - **Website**: [Visit Here](https://rguig-mohamed-amine.vercel.app)  
 - **GitHub**: [@MOHAMED-RGUIG](https://github.com/MOHAMED-RGUIG)  
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com](https://www.linkedin.com/in/mohamed-amine-rguig))
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/mohamed-amine-rguig])
