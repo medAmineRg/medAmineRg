@@ -1,12 +1,11 @@
 # 👋 Hi, I'm Mohamed Amine Rguig!
 
-Welcome to my GitHub! I'm a **Software Engineer** passionate about designing elegant and functional web applications. My portfolio highlights my skills in full-stack development, modern frontend frameworks, and problem-solving.
+Welcome to my GitHub! Hey everyone, i'm RGUIG Mohamed Amine. a FullStack Developer, with a Bachelor's degree in Full Stack Web Development and DevOps. I love solving problems, designing and building app..
 
 ## 🌐 Portfolio Overview  
-Check out my latest work and projects: [rguig-mohamed-amine.vercel.app](https://rguig-mohamed-amine.vercel.app)  
+Check out my latest work and projects: [Portfolio](https://mohamedaminerguig.me/)  
 
 ## 📫 Get in Touch  
 Feel free to connect with me:  
-- **Website**: [Visit Here](https://rguig-mohamed-amine.vercel.app)  
-- **GitHub**: [@MOHAMED-RGUIG](https://github.com/MOHAMED-RGUIG)  
+- **Website**: [Visit Here](https://mohamedaminerguig.me/)  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-amine-rguig)
